@@ -1,0 +1,12 @@
+name = input("Enter your name: ")
+branch = input("Enter your branch: ")
+year = input("enter which year:")
+Favorite_Subject = input(" enter your Favorite_Subject:")
+Dream_Company = input("enter your Dream_Company:")
+
+print("===== STUDENT ID =====")
+print("Name:", name)
+print("Branch:", branch)
+print("year:",year)
+print("Favorite_Subject:",Favorite_Subject)
+print("Dream_Company:",Dream_Company)
